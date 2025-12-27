@@ -1,0 +1,27 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "search": "Buscar"
+  },
+  "home": {
+    "title": "Bienvenido al Template",
+    "description": "Este es un skeleton de TanStack Router con i18n, React Query y shadcn/Base UI",
+    "language": "Idioma",
+    "switchLanguage": "Cambiar idioma",
+    "currentLanguage": "Idioma actual: {{lng}}",
+    "reactQueryDemo": "Demo de React Query",
+    "fetchData": "Obtener Datos",
+    "counter": "Contador: {{count}}",
+    "increment": "Incrementar"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  }
+}
